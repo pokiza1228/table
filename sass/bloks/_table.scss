@@ -1,4 +1,12 @@
 .table {
     width: 100%;
-    text-align: left;
+    border-collapse: collapse;
+}
+.table td,
+.table th {
+    padding: 20px 10px;
+    border: 1px solid #000;
+    text-align: center;
+    color: #000;
+    font-weight: normal;
 }
