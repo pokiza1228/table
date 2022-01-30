@@ -1,0 +1,21 @@
+.header {
+    padding: 100px 0;
+}
+.header__container {
+    display: flex;
+    justify-content: space-around;
+}
+.header__logo {
+    text-decoration: none;
+    color: #000;
+}
+.header__nav {
+
+}
+.header__list {
+    @include reset-list;
+    display: flex;
+}
+.header__item {
+    margin-right: 40px;
+}

@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;CACjB;;ACHD,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,IAAI;CACnB;;ACHD,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,OAAO;CACnB;;AACD,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;CAChC;;AACD,AAAA,aAAa,CAAC;EACV,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,IAAI;CACd;;AAID,AAAA,aAAa,CAAC;EJbV,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,IAAI;EIahB,OAAO,EAAE,IAAI;CAChB;;AACD,AAAA,aAAa,CAAC;EACV,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_mixins.scss",
+        "../sass/bloks/_bloks.scss",
+        "../sass/bloks/_container.scss",
+        "../sass/bloks/_table.scss",
+        "../sass/bloks/_header.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

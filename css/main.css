@@ -1,0 +1,40 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+}
+
+.header {
+  padding: 100px 0;
+}
+
+.header__container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.header__logo {
+  text-decoration: none;
+  color: #000;
+}
+
+.header__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header__item {
+  margin-right: 40px;
+}
+/*# sourceMappingURL=main.css.map */
