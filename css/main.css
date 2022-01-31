@@ -51,4 +51,10 @@ img {
   color: #000;
   font-weight: normal;
 }
+
+.table td:hover,
+.table th:hover {
+  color: darkblue;
+  cursor: pointer;
+}
 /*# sourceMappingURL=main.css.map */
